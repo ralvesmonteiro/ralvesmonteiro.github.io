@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Ricardo Alves Monteiro
-url:"https://ralvesmonteiro.github.io"
+url: "https://ralvesmonteiro.github.io"
 email: alves030@umn.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Hi! I am a PhD candidate in economics at the University of Minnesota. 
