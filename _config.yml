@@ -64,10 +64,10 @@ author:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/ralvesmonteiro"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/ralvesmonteiro"
     - label: "University of Minnesota"
       icon: "fab fa-fw fa-link"
       url: "https://cla.umn.edu/economics"
@@ -76,10 +76,10 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/ralvesmonteiro"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/ralvesmonteiro"
 
 defaults:
   # _posts
