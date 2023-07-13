@@ -11,7 +11,7 @@ title: ""
 
 I am a PhD candidate in economics at the [University of Minnesota](https://cla.umn.edu/economics).
 
-My fields of interests are Macroeconomics, International Economics and Public Finance. My advisors are [Manuel Amador](https://manuelamador.me) and [Tim Kehoe](http://users.econ.umn.edu/~tkehoe/).
+My fields of interest are Macroeconomics, International Economics and Public Finance. My advisors are [Manuel Amador](https://manuelamador.me) and [Tim Kehoe](http://users.econ.umn.edu/~tkehoe/).
 
 My CV is available here.
 
@@ -19,22 +19,6 @@ My CV is available here.
 ## Research
 
 ### Working Papers
-
-{% for pub in site.data.WP %}
-  **[{{pub.title}}]({{pub.link}}){:target="_blank"}** \
-  (with {% for author in pub.coauthors %} {% if author.link %}[{{ author.name }}]({{ author.link }}){:target="_blank"}{% else %}{{ author.name }}{% endif %}{% unless forloop.last %}, {% endunless %}{% endfor %}) \
-  *{{ pub.publication }}*
-  <!-- This applies apply the no-margins class to prev paragraph to remove margins -->
-  <!--{: class="no-margins"} -->
-  <details>
-      <summary>Abstract (click to expand)</summary>
-      {{ pub.abstract }}
-  </details>
-
-  <!-- This creates line break to space out items; need the no-margins class also since this gets automatically wrapped with a <p> which by default has extra margins -->
-  <br/>
-  {: class="no-margins"}
-{% endfor %}
 
 - "Optimal Sovereign Debt Auctions" with [Stelios Fourakis](https://www.steliosfourakis.com)
 
