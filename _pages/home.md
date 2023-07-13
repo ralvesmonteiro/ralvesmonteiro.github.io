@@ -9,7 +9,7 @@ I am a PhD candidate in economics at the [University of Minnesota](https://cla.u
 
 My fields of interest are Macroeconomics, International Economics and Public Finance. My advisors are [Manuel Amador](https://manuelamador.me) and [Tim Kehoe](http://users.econ.umn.edu/~tkehoe/).
 
-My CV is available [here](/assets/papers/Debt_Crisis_strategic_inv_current.pdf).
+My CV is available [here](/assets/papers/CV_current.pdf).
 
 
 ## Research
