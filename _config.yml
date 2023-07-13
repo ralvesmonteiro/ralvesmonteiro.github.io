@@ -57,7 +57,7 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-sidebar:
+author:
   name   : "Ricardo Alves Monteiro"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "PhD candidate at the University of Minnesota"
