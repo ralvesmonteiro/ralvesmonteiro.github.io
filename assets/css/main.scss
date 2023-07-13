@@ -5,19 +5,10 @@ search: false
 @charset "utf-8";
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'dark' }}"; // skin
 @import "minimal-mistakes"; // main partials
+@import "fonts";
 
-html {
-  font-size: 12px; // change to whatever
-
-  @include breakpoint($medium) {
-    font-size: 14px; // change to whatever
-  }
-
-  @include breakpoint($large) {
-    font-size: 16px; // change to whatever
-  }
-
-  @include breakpoint($x-large) {
-    font-size: 18px; // change to whatever
-  }
+body {
+  // Copy pasted from Minimalist: https://github.com/BDHU/bdhu.github.io/blob/d37069a8d913b7e4255c0fdd480d64b72e3714c5/_sass/jekyll-theme-minimalist.scss#L9
+  // Keeping here for now in case want to change fonts in the future.
+  font: 14px/1.5 -apple-system,BlinkMacSystemFont, "Segoe UI", "Open Sans", "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 }
