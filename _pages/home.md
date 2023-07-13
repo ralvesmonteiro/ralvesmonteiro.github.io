@@ -5,7 +5,7 @@ title: ""
 
 ## About me
 
-I am a PhD candidate in economics** at the [University of Minnesota](https://cla.umn.edu/economics).
+I am a PhD candidate in economics at the [University of Minnesota](https://cla.umn.edu/economics).
 
 My fields of interests are Macroeconomics, International Economics and Public Finance. My advisors are [Manuel Amador](https://manuelamador.me) and [Tim Kehoe](http://users.econ.umn.edu/~tkehoe/).
 
