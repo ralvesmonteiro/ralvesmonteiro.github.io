@@ -16,6 +16,10 @@ My CV is available [here](/assets/papers/CV_current.pdf).
 
 ### Working Papers
 
+
+Optimal Sovereign Debt Auctions \
+with [Stelios Fourakis](https://www.steliosfourakis.com){:target="_blank"}
+
 {% for pub in site.data.WP %}
   **[{{pub.title}}]({{pub.link}}){:target="_blank"}** \
   *{{ pub.publication }}*
@@ -46,9 +50,6 @@ My CV is available [here](/assets/papers/CV_current.pdf).
   <br/>
   {: class="no-margins"}
 {% endfor %}
-
-Optimal Sovereign Debt Auctions \
-with [Stelios Fourakis](https://www.steliosfourakis.com){:target="_blank"}
 
 ### Work in Progress
 
