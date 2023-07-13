@@ -30,7 +30,8 @@ My CV is available [here](/assets/papers/CV_current.pdf).
   <br/>
   {: class="no-margins"}
 {% endfor %}
-{% for pub in site.data.publications %}
+
+{% for pub in site.data.WP_co %}
   **[{{pub.title}}]({{pub.link}}){:target="_blank"}** \
   (with {% for author in pub.coauthors %} {% if author.link %}[{{ author.name }}]({{ author.link }}){:target="_blank"}{% else %}{{ author.name }}{% endif %}{% unless forloop.last %}, {% endunless %}{% endfor %}) \
   *{{ pub.publication }}*
