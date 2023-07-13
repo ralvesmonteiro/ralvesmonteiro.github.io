@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: ""
+title: "Ricardo Alves Monteiro"
 url: "https://ralvesmonteiro.github.io"
 email: alves030@umn.edu
 description: >- # this means to ignore newlines until "baseurl:"
@@ -61,16 +61,9 @@ author:
   name   : "Ricardo Alves Monteiro"
   avatar : "/assets/images/photo.pdf"
   bio    : "PhD candidate"
+  location : "Minneapolis, MN"
+  email: "alves030@umn.edu"
   links:
-    - name: Curriculum Vitae
-      link: /assets/papers/cv.pdf
-      target: _blank # opens in new tab
-    - name: Research
-      link: \#research
-    - name: Teaching
-      link: \#teaching
-    - name: Contact
-      link: \#contact
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/ralvesmonteiro"
