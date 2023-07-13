@@ -1,0 +1,9 @@
+- title: "Sovereign Debt Crises and Floating-Rate Bonds"
+  link: /assets/papers/floating_rate.pdf
+  coauthors:
+    - name: Mark Aguiar
+      link: https://www.markaguiar.com
+    - name: Manuel Amador
+      link: https://manuelamador.me
+  publication: WP, November 2021
+  abstract: "Sovereign debt markets are plagued by a number of frictions; in particular, a limited commitment to repay, limited commitment to future fiscal policies (debt dilution), lack of state contingency, and vulnerability to self-fulfilling runs.  We use an analytical model to explore the role of maturity in mitigating or exacerbating the respective frictions.  We show that long-term debt with a variable (but capped) coupon combines many of the desirable properties of both short-term and long-term bonds.  We then turn to a quantitative model to explore the welfare benefits or costs of issuing floating rate bonds."
