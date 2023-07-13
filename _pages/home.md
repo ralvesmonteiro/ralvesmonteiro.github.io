@@ -1,8 +1,5 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-# Minimalist default layout: https://github.com/BDHU/minimalist/blob/main/_layouts/default.html
+permalink: /
 title: ""
 ---
 
