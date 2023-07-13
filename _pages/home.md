@@ -5,9 +5,9 @@ title: ""
 
 ## About me
 
-I am a PhD candidate in economics at the [University of Minnesota](https://cla.umn.edu/economics).
+I am a PhD candidate in economics at the [University of Minnesota](https://cla.umn.edu/economics){:target="_blank"}.
 
-My fields of interest are Macroeconomics, International Economics and Public Finance. My advisors are [Manuel Amador](https://manuelamador.me) and [Tim Kehoe](http://users.econ.umn.edu/~tkehoe/).
+My fields of interest are Macroeconomics, International Economics and Public Finance. My advisors are [Manuel Amador](https://manuelamador.me){:target="_blank"} and [Tim Kehoe](http://users.econ.umn.edu/~tkehoe/){:target="_blank"}.
 
 My CV is available [here](/assets/papers/CV_current.pdf).
 
@@ -16,19 +16,35 @@ My CV is available [here](/assets/papers/CV_current.pdf).
 
 ### Working Papers
 
-- "Optimal Sovereign Debt Auctions" with [Stelios Fourakis](https://www.steliosfourakis.com)
+Optimal Sovereign Debt Auctions \
+with [Stelios Fourakis](https://www.steliosfourakis.com){:target="_blank"}
 
-- "A Debt Crisis with Strategic Investors: Changes in Demand and the Role of Market Power"
+{% for pub in site.data.WP %}
+  **[{{pub.title}}]({{pub.link}}){:target="_blank"}** \
+  *{{ pub.publication }}*
+  <!-- This applies apply the no-margins class to prev paragraph to remove margins -->
+  {: class="no-margins"}
+  <details>
+      <summary>Abstract (click to expand)</summary>
+      {{ pub.abstract }}
+  </details>
 
-- "Sovereign Debt Crises and Floating-Rate Bonds " with [Mark Aguiar](https://www.markaguiar.com) and [Manuel Amador](https://manuelamador.me)
+  <!-- This creates line break to space out items; need the no-margins class also since this gets automatically wrapped with a <p> which by default has extra margins -->
+  <br/>
+  {: class="no-margins"}
+{% endfor %}
+
+Sovereign Debt Crises and Floating-Rate Bonds \ 
+with [Mark Aguiar](https://www.markaguiar.com){:target="_blank"} and [Manuel Amador](https://manuelamador.me){:target="_blank"}
 
 ### Work in Progress
 
-- "The Case for Joint Debt" with Daniel Belchior
+The Case for Joint Debt \
+(with Daniel Belchior)
 
-- "Demand Elasticity in Sovereign Debt Models"
+Demand Elasticity in Sovereign Debt Models
 
-- "Demand Elasticities and the Maturity Choice of Sovereign Debt"
+Demand Elasticities and the Maturity Choice of Sovereign Debt
 
 ---
 ## Teaching
