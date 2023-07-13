@@ -18,7 +18,7 @@ url: "https://ralvesmonteiro.github.io"
 email: alves030@umn.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Hi! I am a PhD candidate in economics at the University of Minnesota. 
-  My research interests are in Macroeconomic Theory, primarily in the fields of International Economics and Public Economics.
+  My field of interest are Macroeconomics, primarily in the fields of International Economics and Public Economics.
 twitter_username: RAlvesMonteiro
 github_username: RAlvesMonteiro
 minimal_mistakes_skin: dark
@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Ricardo Alves Monteiro"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "PhD candidate at the University of Minnesota"
+  bio    : "PhD candidate"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
