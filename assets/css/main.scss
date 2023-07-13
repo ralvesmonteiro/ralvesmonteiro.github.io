@@ -1,8 +1,8 @@
+---
+---
 
 @charset "utf-8";
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
-@import "minimal-mistakes"; // main partials
-
+@import "{{ site.theme }}";
 
 html {
   font-size: 12px; // change to whatever
