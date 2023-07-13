@@ -62,15 +62,21 @@ author:
   avatar : "/assets/images/photo.pdf"
   bio    : "PhD candidate"
   links:
+    - name: Curriculum Vitae
+      link: /assets/papers/cv.pdf
+      target: _blank # opens in new tab
+    - name: Research
+      link: \#research
+    - name: Teaching
+      link: \#teaching
+    - name: Contact
+      link: \#contact
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/ralvesmonteiro"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ralvesmonteiro"
-    - label: "University of Minnesota"
-      icon: "fab fa-fw fa-link"
-      url: "https://cla.umn.edu/economics"
 
 footer:
   links:
