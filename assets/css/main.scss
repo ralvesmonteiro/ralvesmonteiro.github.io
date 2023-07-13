@@ -2,6 +2,7 @@
 search: false
 ---
 
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | 'dark' }}"; // skin
 @import "minimal-mistakes"; // main partials
 @import fonts
 
