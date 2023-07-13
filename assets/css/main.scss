@@ -4,7 +4,6 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | 'dark' }}"; // skin
 @import "minimal-mistakes"; // main partials
-@import fonts
 
 html {
   font-size: 12px; // change to whatever
