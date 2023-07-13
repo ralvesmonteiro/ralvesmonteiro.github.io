@@ -5,9 +5,11 @@ title: ""
 
 ## About me
 
-I am a **PhD candidate in Economics** at the [University of Minnesota](https://cla.umn.edu/economics).
+I am a PhD candidate in economics** at the [University of Minnesota](https://cla.umn.edu/economics).
 
-My research interests lie in **macroeconomics, international economics and public finance**. My advisors are [Manuel Amador](https://manuelamador.me) and [Tim Kehoe](http://users.econ.umn.edu/~tkehoe/). 
+My fields of interests are Macroeconomics, International Economics and Public Finance. My advisors are [Manuel Amador](https://manuelamador.me) and [Tim Kehoe](http://users.econ.umn.edu/~tkehoe/).
+
+My CV is available here.
 
 
 ## Research
