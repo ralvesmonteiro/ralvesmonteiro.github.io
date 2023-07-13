@@ -24,38 +24,36 @@ $global-font-family           : $sans-serif !default;
 $header-font-family           : $sans-serif !default;
 $caption-font-family          : $sans-serif !default;
 
-/* type scale */
-$type-size-1: 2.441em !default;
-$type-size-2: 1.953em !default;
-$type-size-3: 1.563em !default;
-$type-size-4: 1.25em !default;
-$type-size-5: 1.1em !default;
-$type-size-6: 0.8em !default;
-$type-size-7: 0.8em !default;
-$type-size-8: 0.625em !default;
-
-/* headline scale */
-$h-size-1: 1.563em !default;
-$h-size-2: 1.25em !default;
-$h-size-3: 1.125em !default;
-$h-size-4: 1.0625em !default;
-$h-size-5: 1.03125em !default;
-$h-size-6: 1em !default;
-
 @import "minimal-mistakes";
 
 html {
-    font-size: 12px; // change to whatever
+    font-size: 11px; // change to whatever
   
     @include breakpoint($medium) {
-      font-size: 14px; // change to whatever
+      font-size: 13px; // change to whatever
     }
   
     @include breakpoint($large) {
-      font-size: 16px; // change to whatever
+      font-size: 15px; // change to whatever
     }
   
     @include breakpoint($x-large) {
-      font-size: 18px; // change to whatever
+      font-size: 17px; // change to whatever
     }
   }
+
+details > summary {
+  cursor: pointer; 
+  list-style: none;
+  color: var(--clr-h1-and-bold);
+}
+
+details > summary:hover {
+  cursor: pointer; 
+  list-style: none;
+  color: var(--clr-a-text-hvr);
+}
+
+p.no-margins {
+  margin: 0px;
+}
