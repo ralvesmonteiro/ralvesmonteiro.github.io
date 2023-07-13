@@ -25,7 +25,7 @@ My CV is available here.
   (with {% for author in pub.coauthors %} {% if author.link %}[{{ author.name }}]({{ author.link }}){:target="_blank"}{% else %}{{ author.name }}{% endif %}{% unless forloop.last %}, {% endunless %}{% endfor %}) \
   *{{ pub.publication }}*
   <!-- This applies apply the no-margins class to prev paragraph to remove margins -->
-  <!--{: class="no-margins"} -->
+  {: class="no-margins"}
   <details>
       <summary>Abstract (click to expand)</summary>
       {{ pub.abstract }}
