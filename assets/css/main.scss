@@ -3,11 +3,11 @@ search: false
 ---
 
 @charset "utf-8";
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | dark: 'dark' }}"; // skin
 @import "minimal-mistakes"; // main partials
+@import fonts
 
 html {
-  font-size: 12px; // change to whatever
+  font: 14px/1.5 -apple-system,BlinkMacSystemFont, "Segoe UI", "Open Sans", "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 
   @include breakpoint($medium) {
     font-size: 14px; // change to whatever
