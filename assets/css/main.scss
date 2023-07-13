@@ -7,8 +7,8 @@ search: false
 @import fonts
 
 html {
-  font: 14px/1.5 -apple-system,BlinkMacSystemFont, "Segoe UI", "Open Sans", "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-
+  font-size: 12px; // change to whatever
+  
   @include breakpoint($medium) {
     font-size: 14px; // change to whatever
   }
