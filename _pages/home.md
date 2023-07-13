@@ -16,9 +16,6 @@ My CV is available [here](/assets/papers/CV_current.pdf).
 
 ### Working Papers
 
-Optimal Sovereign Debt Auctions \
-with [Stelios Fourakis](https://www.steliosfourakis.com){:target="_blank"}
-
 {% for pub in site.data.WP %}
   **[{{pub.title}}]({{pub.link}}){:target="_blank"}** \
   *{{ pub.publication }}*
@@ -33,18 +30,16 @@ with [Stelios Fourakis](https://www.steliosfourakis.com){:target="_blank"}
   <br/>
   {: class="no-margins"}
 {% endfor %}
-
-Sovereign Debt Crises and Floating-Rate Bonds \ 
-with [Mark Aguiar](https://www.markaguiar.com){:target="_blank"} and [Manuel Amador](https://manuelamador.me){:target="_blank"}
+Optimal Sovereign Debt Auctions \
+with [Stelios Fourakis](https://www.steliosfourakis.com){:target="_blank"}
 
 ### Work in Progress
 
-The Case for Joint Debt \
-(with Daniel Belchior)
+- The Case for Joint Debt (with Daniel Belchior)
 
-Demand Elasticity in Sovereign Debt Models
+- Demand Elasticity in Sovereign Debt Models
 
-Demand Elasticities and the Maturity Choice of Sovereign Debt
+- Demand Elasticities and the Maturity Choice of Sovereign Debt
 
 ---
 ## Teaching

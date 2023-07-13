@@ -3,6 +3,15 @@
   publication: WP, September 2021
   abstract: "Does demand for sovereign debt change during high default risk events? Using a dataset containing individual bids on Portuguese debt auctions, I investigate whether investors’ demand for sovereign debt changes during the debt crisis. I find that aggregate bid functions are, on average, five times more elastic leading up and during the crisis. That is, on average, in order to increase the amount raised by 1%, the price would need to decrease, in percentage terms, by five times more than it had before the crisis. I then decompose the changes in demand into two components: a fundamental component, due to changes in valuation, and a strategic component, that arises from investors’ market power. Although the role of market power is negligible in normal times, it gets more pronounced leading up and during the crisis. The auction mechanism loses efficiency during that period as the government is not able to extract the full surplus from strategic investors. At their peak, inefficiency costs jump to 0.6% of the issued amount. Finally, I discuss a possible mitigation strategy. Everything else constant, shorter maturities should be used to avoid higher inefficiency costs."
 
+- title: "Sovereign Debt Crises and Floating-Rate Bonds"
+  coauthors:
+    - name: Mark Aguiar
+      link: https://www.markaguiar.com
+    - name: Manuel Amador
+      link: https://manuelamador.me
+  publication: WP, November 2021
+  abstract: "Sovereign debt markets are plagued by a number of frictions; in particular, a limited commitment to repay, limited commitment to future fiscal policies (debt dilution), lack of state contingency, and vulnerability to self-fulfilling runs.  We use an analytical model to explore the role of maturity in mitigating or exacerbating the respective frictions.  We show that long-term debt with a variable (but capped) coupon combines many of the desirable properties of both short-term and long-term bonds.  We then turn to a quantitative model to explore the welfare benefits or costs of issuing floating rate bonds."
+
 # - title: Second pub
 #   coauthors:
 #     - name: c
