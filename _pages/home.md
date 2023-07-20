@@ -17,7 +17,7 @@ My CV is available [here](/assets/papers/CV_current.pdf).
 ### Working Papers
 
 
-Optimal Sovereign Debt Auctions \
+Marginal vs. Multiple: Debt Auctions with Strategic Interactions \
 with [Stelios Fourakis](https://www.steliosfourakis.com){:target="_blank"}
 
 {% for pub in site.data.WP %}
