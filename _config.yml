@@ -57,6 +57,11 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+
+sidebar:
+  - title: Ricardo Alves Monteiro
+    image: "/assets/images/image_home.jpg"
+    
 author:
   name   : "Ricardo Alves Monteiro"
   avatar : "/assets/images/photo.pdf"
