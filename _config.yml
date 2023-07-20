@@ -72,8 +72,6 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ralvesmonteiro"
-    - label: "Contact"
-      url: "https://ralvesmonteiro.github.io/#contact"
 
 footer:
   links:
