@@ -61,14 +61,7 @@ plugins:
 sidebar:
   - title: Ricardo Alves Monteiro
     image: "/assets/images/image_home.jpg"
-    
-author:
-  name   : "Ricardo Alves Monteiro"
-  avatar : "/assets/images/photo.pdf"
-  bio    : "PhD candidate"
-  location : "Minneapolis, MN"
-  email: "alves030@umn.edu"
-  links:
+    links:
     - label: "Curriculum Vitae"
       icon: "far fa-file-pdf"
       url: "/assets/papers/CV_current.pdf"
