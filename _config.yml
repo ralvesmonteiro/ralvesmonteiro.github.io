@@ -57,11 +57,13 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-
-sidebar:
-  - title: Ricardo Alves Monteiro
-    image: "/assets/images/image_home.jpg"
-    links:
+author:
+  name   : "Ricardo Alves Monteiro"
+  avatar : "/assets/images/image_home"
+  bio    : "PhD candidate"
+  location : "Minneapolis, MN"
+  email: "alves030@umn.edu"
+  links:
     - label: "Curriculum Vitae"
       icon: "far fa-file-pdf"
       url: "/assets/papers/CV_current.pdf"
