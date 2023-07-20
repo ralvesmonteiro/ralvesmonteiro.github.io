@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Ricardo Alves Monteiro"
-  avatar : "/assets/images/image_home"
+  avatar : "/assets/images/image_home.jpg"
   bio    : "PhD candidate"
   location : "Minneapolis, MN"
   email: "alves030@umn.edu"
