@@ -63,17 +63,17 @@ with [Stelios Fourakis](https://www.steliosfourakis.com){:target="_blank"}
 ## Teaching
 
 ### University of Minnesota, Twin Cities 
-- ECON 4721 Money and Banking, Instructor: Summer 2023
+- ECON 4721 Money and Banking, Instructor: Summer 2023 [Syllabus](/assets/teaching/syllabus_4721.pdf)
 - ECON 4261 Introduction to Econometrics, TA: Spring 2023
-- ECON 4821 Public Economics, Instructor: Fall 2021
+- ECON 4821 Public Economics, Instructor: Fall 2021 [Syllabus](/assets/teaching/syllabus_4821.pdf)
 - ECON 1101 Introduction to Microeconomics, Instructor: Summer 2020
-- ECON 8108 Macroeconomic Theory, TA: Spring 2020
+- ECON 8108 Macroeconomic Theory, TA: Spring 2020 
 - ECON 8107 Macroeconomic Theory, TA: Spring 2020
 - ECON 8106 Macroeconomic Theory, TA: Fall 2019
-- ECON 8105 Macroeconomic Theory, TA: Fall 2019
+- ECON 8105 Macroeconomic Theory, TA: Fall 2019 [Recitation Notes](/assets/teaching/Notes_8105.pdf)
 
 ### Teaching in Lisbon
-- Fall 2017 - Lead Instructor for Fundamentals of Financial Economics at ISEG - Lisbon School of Economics and Management
+- Fall 2017 - Lead Instructor for Fundamentals of Financial Economics at ISEG - Lisbon School of Economics and Management [Syllabus](/assets/teaching/syllabus_ISEG.pdf)
 - 2012 - 2018: Teaching Assistant at Catolica Lisbon School of Business and Economics
 
 ## Contact
