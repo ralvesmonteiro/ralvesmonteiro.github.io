@@ -64,6 +64,12 @@ author:
   location : "Minneapolis, MN"
   email: "alves030@umn.edu"
   links:
+    - label: "Research"
+      url: "https://ralvesmonteiro.github.io/#research"
+    - label: "Teaching"
+      url: "https://ralvesmonteiro.github.io/#teaching"
+    - label: "Contact"
+      url: "https://ralvesmonteiro.github.io/#contact"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/ralvesmonteiro"
