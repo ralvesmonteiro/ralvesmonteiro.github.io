@@ -65,7 +65,7 @@ author:
   email: "alves030@umn.edu"
   links:
     - label: "Curriculum Vitae"
-      icon: <i class="fa-regular fa-file-pdf"></i>
+      icon: <i class="far fa-file-pdf"></i>
       url: "/assets/papers/CV_current.pdf"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
