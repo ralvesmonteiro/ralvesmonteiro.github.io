@@ -58,7 +58,7 @@ p.no-margins {
   margin: 0px;
 }
 
-@media {
+@media (min-width: 80em) {
 
   .author__avatar {
   display: table-cell;
@@ -82,4 +82,4 @@ p.no-margins {
   }
   }
   }
-  }´
+  }
