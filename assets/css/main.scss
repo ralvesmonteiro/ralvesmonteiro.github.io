@@ -2,7 +2,7 @@
 search: false
 ---
 
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | 'dark' }}"; // skin
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | 'dirt' }}"; // skin
 
 /* system typefaces */
 $serif: Lora, Georgia, Times, serif !default;
