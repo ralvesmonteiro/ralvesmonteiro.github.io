@@ -35,7 +35,9 @@ with [Stelios Fourakis](https://www.steliosfourakis.com){:target="_blank"}
   {: class="no-margins"}
 {% endfor %}
 
-{% for pub in site.data.WP_co %}
+###Publications
+
+{% for pub in site.data.publications %}
   **[{{pub.title}}]({{pub.link}}){:target="_blank"}** \
   (with {% for author in pub.coauthors %} {% if author.link %}[{{ author.name }}]({{ author.link }}){:target="_blank"}{% else %}{{ author.name }}{% endif %}{% unless forloop.last %}, {% endunless %}{% endfor %}) \
   *{{ pub.publication }}*
