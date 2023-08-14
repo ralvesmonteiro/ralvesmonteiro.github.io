@@ -35,7 +35,7 @@ with [Stelios Fourakis](https://www.steliosfourakis.com){:target="_blank"}
   {: class="no-margins"}
 {% endfor %}
 
-###Publications
+### Publications
 
 {% for pub in site.data.publications %}
   **[{{pub.title}}]({{pub.link}}){:target="_blank"}** \
