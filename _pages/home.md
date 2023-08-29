@@ -1,13 +1,17 @@
 ---
 permalink: /
 title: ""
+output: 
+  html_document:
+    includes:
+       in_header: /_includes/GA_Script.html
 ---
 
 ## About me
 
 I am a PhD candidate in economics at the [University of Minnesota](https://cla.umn.edu/economics){:target="_blank"}.
 
-My fields of interest are Macroeconomics, International Economics and Public Finance. My advisors are [Manuel Amador](https://manuelamador.me){:target="_blank"} and [Tim Kehoe](http://users.econ.umn.edu/~tkehoe/){:target="_blank"}.
+My fields of interest are Macroeconomics, International Economics and International Finance. My advisors are [Manuel Amador](https://manuelamador.me){:target="_blank"} and [Tim Kehoe](http://users.econ.umn.edu/~tkehoe/){:target="_blank"}.
 
 My CV is available [here](/assets/papers/CV_current.pdf).
 
@@ -17,7 +21,7 @@ My CV is available [here](/assets/papers/CV_current.pdf).
 ### Working Papers
 
 
-Marginal vs. Multiple: Debt Auctions with Strategic Interactions \
+Sovereign Debt Auctions with Strategic Interactions \
 with [Stelios Fourakis](https://www.steliosfourakis.com){:target="_blank"}
 
 {% for pub in site.data.WP %}
