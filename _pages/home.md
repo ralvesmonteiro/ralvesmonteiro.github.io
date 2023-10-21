@@ -9,7 +9,7 @@ output:
 
 ## About me
 
-I am a PhD candidate in economics at the [University of Minnesota](https://cla.umn.edu/economics){:target="_blank"}.
+I am a PhD candidate in economics at the [University of Minnesota](https://cla.umn.edu/economics){:target="_blank"}. I am on the 2023/24 job market.
 
 My fields of interest are Macroeconomics, International Economics and International Finance. My advisors are [Manuel Amador](https://manuelamador.me){:target="_blank"} and [Tim Kehoe](http://users.econ.umn.edu/~tkehoe/){:target="_blank"}.
 
@@ -20,9 +20,20 @@ My CV is available [here](/assets/papers/CV_current.pdf).
 
 ### Working Papers
 
+{% for pub in site.data.WP_co %}
+  **[{{pub.title}}]({{pub.link}}){:target="_blank"}** \
+  *{{ pub.publication }}*
+  <!-- This applies apply the no-margins class to prev paragraph to remove margins -->
+  {: class="no-margins"}
+  <details>
+      <summary>Abstract (click to expand)</summary>
+      {{ pub.abstract }}
+  </details>
 
-Sovereign Debt Auctions with Strategic Interactions \
-with [Stelios Fourakis](https://www.steliosfourakis.com){:target="_blank"}
+  <!-- This creates line break to space out items; need the no-margins class also since this gets automatically wrapped with a <p> which by default has extra margins -->
+  <br/>
+  {: class="no-margins"}
+{% endfor %}
 
 {% for pub in site.data.WP %}
   **[{{pub.title}}]({{pub.link}}){:target="_blank"}** \

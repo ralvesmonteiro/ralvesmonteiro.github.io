@@ -77,8 +77,11 @@ author:
       icon: "far fa-file-pdf"
       url: "/assets/papers/CV_current.pdf"
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+      icon: "fa-brands fa-x-twitter"
       url: "https://twitter.com/ralvesmonteiro"
+    - label: "Linkedin"
+      icon: "fa-brands fa-linkedin"
+      url: "https://https://www.linkedin.com/in/ricardoalvesmonteiro/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ralvesmonteiro"
@@ -86,7 +89,7 @@ author:
 footer:
   links:
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+      icon: "fa-brands fa-x-twitter"
       url: "https://twitter.com/ralvesmonteiro"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
