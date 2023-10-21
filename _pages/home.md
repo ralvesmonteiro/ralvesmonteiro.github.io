@@ -101,6 +101,9 @@ My CV is available [here](/assets/papers/CV_current.pdf).
 alves030 at umn dot edu \
 ricardoalvesmonteiro  at gmail dot com
 
+**Twitter/X** \
+[@RAlvesMonteiro](https://twitter.com/RAlvesMonteiro)
+
 **Mailing Address** \
 4-101 Hanson Hall \
 1925 Fourth Street South \
