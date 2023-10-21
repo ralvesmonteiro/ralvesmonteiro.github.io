@@ -77,7 +77,7 @@ author:
       icon: "far fa-file-pdf"
       url: "/assets/papers/CV_current.pdf"
     - label: "Twitter"
-      icon: "fab fa-x-twitter"
+      icon: "fa-brands fa-square-x-twitter"
       url: "https://twitter.com/ralvesmonteiro"
     - label: "Linkedin"
       icon: "fab fa-linkedin"

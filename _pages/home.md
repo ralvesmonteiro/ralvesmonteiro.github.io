@@ -70,11 +70,13 @@ My CV is available [here](/assets/papers/CV_current.pdf).
 
 ### Work in Progress
 
-- The Case for Joint Debt (with Daniel Belchior)
+- Multiplicity in Discriminatory Price Auctions (with Stelios Fourakis)
 
 - Demand Elasticity in Sovereign Debt Models
 
 - Demand Elasticities and the Maturity Choice of Sovereign Debt
+
+- The Case for Joint Debt (with Daniel Belchior)
 
 ---
 ## Teaching
