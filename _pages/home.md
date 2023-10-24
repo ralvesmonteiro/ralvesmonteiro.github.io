@@ -18,6 +18,8 @@ My CV is available [here](/assets/papers/CV_current.pdf).
 
 ## Research
 
+My Research Statement is available [here](/assets/papers/Research.pdf).
+
 ### Working Papers
 
 {% for pub in site.data.WP_co %}
