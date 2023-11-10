@@ -9,9 +9,9 @@ output:
 
 ## About me
 
-I am a PhD candidate in economics at the [University of Minnesota](https://cla.umn.edu/economics){:target="_blank"}. I am on the 2023/24 job market.
+I am a PhD candidate in economics at the [University of Minnesota](https://cla.umn.edu/economics){:target="_blank"}. I am on the 2023-2024 job market and will be available for interviews at the EEA and ASSA meetings.
 
-My fields of interest are Macroeconomics, International Economics and International Finance. My advisors are [Manuel Amador](https://manuelamador.me){:target="_blank"} and [Tim Kehoe](http://users.econ.umn.edu/~tkehoe/){:target="_blank"}.
+My fields of interest are Macroeconomics, International Economics and International Finance. My letter writers are [Manuel Amador](https://manuelamador.me){:target="_blank"} (advisor), [Tim Kehoe](http://users.econ.umn.edu/~tkehoe/){:target="_blank"} (advisor), and [Marco Bassetto](http://users.nber.org/~bassetto/){:target="_blank"}.
 
 My CV is available [here](/assets/papers/CV_current.pdf).
 
