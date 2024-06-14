@@ -1,13 +1,5 @@
 - title: "Sovereign Debt Auctions with Strategic Interactions (Job Market Paper)"
   link: /assets/papers/JMP_AMF.pdf
-  bibtex: |
-    @unpublished{
-      AMF2023,
-      author={Alves Monteiro, Ricardo and Fourakis, Stelios},
-      title={Sovereign Debt Auctions with Strategic Interactions},
-      year={2023}, 
-      note={Working Paper}
-    }
   coauthors:
     - name: Stelios Fourakis
       link: https://www.steliosfourakis.com
