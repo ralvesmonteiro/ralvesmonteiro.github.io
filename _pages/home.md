@@ -9,9 +9,13 @@ output:
 
 ## About me
 
-I am a PhD candidate in economics at the [University of Minnesota](https://cla.umn.edu/economics){:target="_blank"}. I will join the International Monetary Fund in September 2024.
+I am an Economist (EP) at the IMF Institute for Capacity Development. 
 
 My fields of interest are Macroeconomics, International Economics and International Finance.
+
+I earned my PhD in economics from the University of Minnesota in 2024.
+
+Disclaimer: This is my website. The views expressed herein are my own and do not necessarily reflect those of the International Monetary Fund, its Executive Board, or its management.
 
 ## Research
 
