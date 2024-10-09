@@ -102,8 +102,9 @@ My Research Statement is available [here](/assets/papers/Research.pdf).
 ## Contact
 
 **E-mail** \
-alves030 at umn dot edu \
-ricardoalvesmonteiro  at gmail dot com
+ralvesmonteiro [at] imf [dot] org \
+ricardoalvesmonteiro [at] gmail [dot] com \
+alves030 [at] umn [dot] edu 
 
 **Twitter/X** \
 [@RAlvesMonteiro](https://twitter.com/RAlvesMonteiro)
