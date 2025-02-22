@@ -42,6 +42,7 @@ My Research Statement is available [here](/assets/papers/Research.pdf).
 {% for pub in site.data.WP %}
   **[{{pub.title}}]({{pub.link}}){:target="_blank"}** \
   *{{ pub.publication }}*
+  {% if pub.journal_link %}[Link]({{ pub.journal_link }}){:target="_blank"}{% endif %}
   <!-- This applies apply the no-margins class to prev paragraph to remove margins -->
   {: class="no-margins"}
   <details>
@@ -60,6 +61,7 @@ My Research Statement is available [here](/assets/papers/Research.pdf).
   **[{{pub.title}}]({{pub.link}}){:target="_blank"}** \
   (with {% for author in pub.coauthors %} {% if author.link %}[{{ author.name }}]({{ author.link }}){:target="_blank"}{% else %}{{ author.name }}{% endif %}{% unless forloop.last %}, {% endunless %}{% endfor %}) \
   *{{ pub.publication }}*
+  {% if pub.journal_link %}[Link]({{ pub.journal_link }}){:target="_blank"}{% endif %}
   <!-- This applies apply the no-margins class to prev paragraph to remove margins -->
   {: class="no-margins"}
   <details>
