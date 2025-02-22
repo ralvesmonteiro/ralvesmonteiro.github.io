@@ -1,5 +1,4 @@
 ---
-permalink: /
 title: ""
 output: 
   html_document:
