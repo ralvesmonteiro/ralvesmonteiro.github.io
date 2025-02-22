@@ -58,6 +58,21 @@ p.no-margins {
   margin: 0px;
 }
 
+ .author__avatar {
+  #display: table-cell;
+  #vertical-align: top;
+  
+  img {
+  border-radius: 0%;
+  
+  @include breakpoint($large) {
+    padding: 0px;
+    border: 0px solid $border-color;
+  }
+  }
+  }
+
+
 @media (min-width: 64em) {
 
   .author__avatar {
