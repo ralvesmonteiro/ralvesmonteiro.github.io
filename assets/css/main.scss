@@ -58,11 +58,11 @@ p.no-margins {
   margin: 0px;
 }
 
-@media (min-width: 80em) {
+@media (min-width: 64em) {
 
   .author__avatar {
-  display: table-cell;
-  vertical-align: top;
+  #display: table-cell;
+  #vertical-align: top;
   width: 150px; //original: 36px
   height: 150px; //original: 36px
   
@@ -73,7 +73,7 @@ p.no-margins {
   }
   
   img {
-  max-width: 175px; //original: 110px
+  max-width: 250px; //original: 110px
   border-radius: 0%;
   
   @include breakpoint($large) {
