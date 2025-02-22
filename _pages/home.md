@@ -110,6 +110,6 @@ alves030 [at] umn [dot] edu
 [@RAlvesMonteiro](https://twitter.com/RAlvesMonteiro)
 
 **Mailing Address** \
-International Monetary Fund
-1900 Pennsylvania Ave., N.W.
+International Monetary Fund \
+1900 Pennsylvania Ave., N.W. \
 Washington, DC 20431
