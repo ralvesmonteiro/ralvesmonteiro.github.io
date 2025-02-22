@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: "Ricardo Alves Monteiro"
 url: "https://ralvesmonteiro.github.io"
-email: alves030@umn.edu
+email: ralvesmonteiro@imf.org
 description: >- # this means to ignore newlines until "baseurl:"
   Hi! I am a PhD candidate in economics at the University of Minnesota. 
   My field of interest are Macroeconomics, primarily in the fields of International Economics and Public Economics.
@@ -69,9 +69,9 @@ plugins:
 author:
   name   : "Ricardo Alves Monteiro"
   avatar : "/assets/images/Ricardo_IMF.jpg"
-  bio    : "PhD candidate"
+  bio    : "Economist"
   location : "Washington, DC"
-  email: "alves030@umn.edu"
+  email: "ralvesmonteiro@imf.org"
   links:
     - label: "Curriculum Vitae"
       icon: "far fa-file-pdf"
