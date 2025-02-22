@@ -63,8 +63,8 @@ p.no-margins {
   .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 80px; //original: 36px
-  height: 80px; //original: 36px
+  width: 150px; //original: 36px
+  height: 150px; //original: 36px
   
   @include breakpoint($large) {
   display: block;
